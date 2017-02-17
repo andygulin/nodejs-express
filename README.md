@@ -5,6 +5,9 @@
 npm install
 npm start 3000
 ```
+##### 二维码
+    URL : /qrcode/create?text=http://www.baidu.com
+    METHOD : GET
 
 ##### 返回文本
     URL : /hello
