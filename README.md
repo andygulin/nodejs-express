@@ -1,5 +1,14 @@
 #### NodeJS Express Rest Sample
 
+### 升级包
+```
+sudo npm install -g npm-check-updates
+
+npm-check-updates
+ncu -u
+npm install
+```
+
 ### 运行
 ```
 npm install
